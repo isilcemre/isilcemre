@@ -3,7 +3,6 @@
 🎓 Computer Engineering Student at Gazi University  
 🔐 Interested in Software Development & Web Development    
 
----
 
 ## 💻 Tech Stack
 - 💡 Java  
@@ -11,23 +10,26 @@
 - 🗄️ SQL  
 - ⚙️ IntelliJ IDEA  
 
----
 
 ## ✨ About Me
 - I am a third-year Computer Engineering student at Gazi University. In the Fall semester of the 2026–2027 academic year, I participated in the Erasmus+ program in Poland through my university. During my studies, I took part in various conferences as a social media manager and photographer in student clubs. I am currently learning Polish and German.
 
----
 
 ## 🚀 Projects
 - 🔢 Number Guessing Game (JavaScript)  
-- 🟢 Matrix Effect Game  
-- 🛒 E-commerce Web App (ASP.NET MVC)  
+- 🏥 Hospital Appointment System 
+- 🚗 Vehicle Routing Problem Solver 
+- 🌐 Network Flow Optimization 
+- 📍 Shortest Path Graph Algorithms  
+- ❌ Tic Tac Toe Game  
+- 🧠 Memory Game  
+- 📚 Library Management System
 
-
+  
 ## 📫 Contact Me
 - 📧 saglamisilcemre@gmail.com 
 
----
+
 
 <!--
 
