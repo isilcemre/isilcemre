@@ -16,7 +16,7 @@
 
 
 ## 🚀 Projects
-- Number Guessing Game (JavaScript)  
+- Number Guessing Game  
 - Hospital Appointment System 
 - Vehicle Routing Problem Solver 
 - Network Flow Optimization 
