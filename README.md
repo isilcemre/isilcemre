@@ -5,10 +5,10 @@
 
 
 ## 💻 Tech Stack
-- 💡 Java  
-- 🌐 HTML & CSS  
-- 🗄️ SQL  
-- ⚙️ IntelliJ IDEA  
+- Java  
+- HTML & CSS  
+- SQL  
+- IntelliJ IDEA  
 
 
 ## ✨ About Me
@@ -16,14 +16,14 @@
 
 
 ## 🚀 Projects
-- 🔢 Number Guessing Game (JavaScript)  
-- 🏥 Hospital Appointment System 
-- 🚗 Vehicle Routing Problem Solver 
-- 🌐 Network Flow Optimization 
-- 📍 Shortest Path Graph Algorithms  
-- ❌ Tic Tac Toe Game  
-- 🧠 Memory Game  
-- 📚 Library Management System
+- Number Guessing Game (JavaScript)  
+- Hospital Appointment System 
+- Vehicle Routing Problem Solver 
+- Network Flow Optimization 
+- Shortest Path Graph Algorithms  
+- Tic Tac Toe Game  
+- Memory Game  
+- Library Management System
 
   
 ## 📫 Contact Me
