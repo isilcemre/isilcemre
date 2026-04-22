@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there, I'm Işıl 👋💗  
+## Hi there, I'm Işıl 👋💗  
 
 🎓 Computer Engineering Student at Gazi University  
 🔐 Interested in Software Development & Web Development    
