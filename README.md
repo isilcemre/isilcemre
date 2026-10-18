@@ -1,21 +1,25 @@
 ## Hi there, I'm Işıl 👋💗  
 
 🎓 Computer Engineering Student at Gazi University  
-🔐 Interested in Software Development & Web Development    
+🔐 Interested in Software & Application Development   
 
 
 ## 💻 Tech Stack
-- Java  
-- HTML & CSS  
+- Java 
+- JS & HTML & CSS  
 - SQL  
-- IntelliJ IDEA  
+- Flutter & Dart
+- 
 
 
 ## ✨ About Me
-- I am a third-year Computer Engineering student at Gazi University. In the Fall semester of the 2026–2027 academic year, I participated in the Erasmus+ program in Poland through my university. During my studies, I took part in various conferences as a social media manager and photographer in student clubs. I am currently learning Polish and German.
+- I am a fourth-year Computer Engineering student at Gazi University. In the Fall semester of the 2026–2027 academic year, I participated in the Erasmus+ program in Poland through my university. During my studies, I took part in various conferences as a social media manager and photographer in student clubs. I am currently learning ASL and German.
+🔭 I’m currently working on a recipe app. 
 
 
 ## 🚀 Projects
+- Recipe App
+- Lexi Wordbook
 - Number Guessing Game  
 - Hospital Appointment System 
 - Vehicle Routing Problem Solver 
