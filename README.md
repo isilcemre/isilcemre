@@ -25,8 +25,6 @@
 - Vehicle Routing Problem Solver 
 - Network Flow Optimization 
 - Shortest Path Graph Algorithms  
-- Tic Tac Toe Game  
-- Memory Game  
 - Library Management System
 
   
