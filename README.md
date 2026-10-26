@@ -9,7 +9,6 @@
 - JS & HTML & CSS  
 - SQL  
 - Flutter & Dart
-- 
 
 
 ## ✨ About Me
